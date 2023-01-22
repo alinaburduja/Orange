@@ -1,0 +1,12 @@
+C:\Users\anoth\source\repos\Movie\Orange.Data\bin\Debug\netcoreapp3.1\Orange.Data.deps.json
+C:\Users\anoth\source\repos\Movie\Orange.Data\bin\Debug\netcoreapp3.1\Orange.Data.runtimeconfig.json
+C:\Users\anoth\source\repos\Movie\Orange.Data\bin\Debug\netcoreapp3.1\Orange.Data.runtimeconfig.dev.json
+C:\Users\anoth\source\repos\Movie\Orange.Data\bin\Debug\netcoreapp3.1\Orange.Data.dll
+C:\Users\anoth\source\repos\Movie\Orange.Data\bin\Debug\netcoreapp3.1\Orange.Data.pdb
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.AssemblyInfoInputs.cache
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.AssemblyInfo.cs
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.csproj.CoreCompileInputs.cache
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.dll
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.pdb
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.genruntimeconfig.cache
+C:\Users\anoth\source\repos\Movie\Orange.Data\obj\Debug\netcoreapp3.1\Orange.Data.csproj.AssemblyReference.cache
